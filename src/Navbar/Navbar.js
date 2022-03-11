@@ -9,6 +9,8 @@ const Navbar = () => {
            <img className='nav-image' src={image} alt="" />
           </div>
           <div className='navbar-right'>
+                <a className='nab-link' href=""> Deposit   </a>
+               <a className='nab-link' href=""> Foreign Trade   </a>
                <a className='nab-link' href=""> User   </a>
                <a className='nab-link' href=""> Admin   </a>
                <a className='nab-link' href=""> Contact   </a>

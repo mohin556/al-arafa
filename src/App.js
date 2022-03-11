@@ -8,6 +8,7 @@ function App() {
     <div className="app">
       <div>
        <Home></Home>
+       
        <div className='app-body' >
                   <Details></Details>
               </div>
