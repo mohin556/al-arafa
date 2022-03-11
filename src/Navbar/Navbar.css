@@ -1,0 +1,29 @@
+.navbar{
+    border: 2px solid red;
+    height: 120px;
+    width: 100vw;
+    display: flex;
+    
+   
+}
+
+.nav-image{
+    height: 120px;
+    width: 430px;
+}
+.navbar-right{
+    margin-left: 600px;
+    margin-bottom: 200px;
+    margin-top: 20px;
+    padding: 25px;
+
+}
+.nab-link{
+     background-color: #009900;
+     color: white;
+   padding: 10px;
+   margin-left: 25px;
+     border-radius: 5px;
+     text-decoration: none;
+     font-weight: bold;
+}

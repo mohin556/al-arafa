@@ -1,0 +1,9 @@
+.details{
+    display: flex;
+   
+    
+}
+.carousel-img{
+    height: 500px;
+    width: 100vw;
+}
