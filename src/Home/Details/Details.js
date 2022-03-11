@@ -18,8 +18,8 @@ const Details = () => {
       alt="First slide"
     />
     <Carousel.Caption>
-      {/* <h3>First slide label</h3>
-      <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p> */}
+      <h3 style={{color: "green"}} >AL-Arafah-Islami-Bank</h3>
+      <h4 style={{color: "orange"}} > AIBL Mudaraba Perpetual Bond </h4>
     </Carousel.Caption>
   </Carousel.Item>
   <Carousel.Item>

@@ -1,6 +1,7 @@
 .details{
-    display: flex;
+    width: 80%;
    
+    flex: 0.33;
     
 }
 .carousel-img{

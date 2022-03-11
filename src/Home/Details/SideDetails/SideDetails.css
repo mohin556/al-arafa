@@ -1,0 +1,17 @@
+.sideDetails{
+    flex: 0.67;
+     
+   
+   text-align: center;
+ border: 1px solid gray;
+    
+   
+     align-items: center;
+}
+.SidebarHead{
+    background-color: #009900;
+    height: 36px;
+    padding: 3px;
+    border-radius: 5px;
+    color: white;
+}

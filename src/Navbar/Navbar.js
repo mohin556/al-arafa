@@ -1,6 +1,7 @@
 import React from 'react';
 import image from '../Image/al-arafa islami bank.png';
 import './Navbar.css'
+import { Link } from 'react-router-dom';
 
 const Navbar = () => {
     return (
@@ -15,6 +16,7 @@ const Navbar = () => {
                <a className='nab-link' href=""> Admin   </a>
                <a className='nab-link' href=""> Contact   </a>
                <a className='nab-link' href=""> Login   </a>
+               <Link className='nab-link' to="/about">About</Link>
                
           
 
